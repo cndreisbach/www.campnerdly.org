@@ -1,5 +1,5 @@
 ---
-title: Www.Campnerdly.Org
+title: www.campnerdly.org
 timezone: UTC
 collections:
   posts:
@@ -10,4 +10,4 @@ collections:
     output: true
 name: Your New Jekyll Site
 markdown: redcarpet
-header: 'Camp Nerdly 9: May 13-15, 2016, Prince William Forest Park'
+header: 'Camp Nerdly X: May 19-21, 2017, Prince William Forest Park'
